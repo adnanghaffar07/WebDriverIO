@@ -1,0 +1,58 @@
+{
+  "uid" : "c276ee5d43ff213b",
+  "name" : "should login with valid credentials, place an order then logout",
+  "fullName" : "Order Confirmation Test.should login with valid credentials, place an order then logout",
+  "historyId" : "f0e6e2ea01e82df646aef6a3408933d0",
+  "time" : {
+    "start" : 1602146408773,
+    "stop" : 1602146421054,
+    "duration" : 12281
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call click on element with selector \"#inventory_container .inventory_list .inventory_item:nth-child(1) button.btn_inventory\" because element wasn't found",
+  "statusTrace" : "Error: Can't call click on element with selector \"#inventory_container .inventory_list .inventory_item:nth-child(1) button.btn_inventory\" because element wasn't found\n                    at Object.implicitWait [as default] (E:\\Adnan Ghaffar\\saucedemo\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:17:19)\n                    at Element.runCommandWithHooks (E:\\Adnan Ghaffar\\saucedemo\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Element.wrapCommandFn (E:\\Adnan Ghaffar\\saucedemo\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at Element.elementErrorHandlerCallback (E:\\Adnan Ghaffar\\saucedemo\\node_modules\\webdriverio\\build\\middlewares.js:34:12)\n                    at Cart.clickAddToCartButton (E:\\Adnan Ghaffar\\saucedemo\\test\\pageobjects\\cart.js:14:27)\n                    at Context.<anonymous> (E:\\Adnan Ghaffar\\saucedemo\\test\\specs\\e2e.js:33:18)\n                    at Context.executeSync (E:\\Adnan Ghaffar\\saucedemo\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at E:\\Adnan Ghaffar\\saucedemo\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials, place an order then logout"
+  }, {
+    "name" : "package",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.75"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c276ee5d43ff213b.json",
+  "parameterValues" : [ "chrome-86.0.4240.75" ]
+}

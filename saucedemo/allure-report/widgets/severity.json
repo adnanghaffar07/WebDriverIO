@@ -1,0 +1,21 @@
+[ {
+  "uid" : "452ac5bb33f45b6b",
+  "name" : "should login with valid credentials, place an order then logout",
+  "time" : {
+    "start" : 1602160283036,
+    "stop" : 1602160300624,
+    "duration" : 17588
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aeeea5a9753e2300",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1602092718464,
+    "stop" : 1602092723981,
+    "duration" : 5517
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1602095004558' stop='1602095064644'>
+    <name>Order Confirmation Test</name>
+    <title>Order Confirmation Test</title>
+    <test-cases>
+        <test-case start='1602095004558' status='broken' stop='1602095064642'>
+            <name>should login with valid credentials, place an order then logout</name>
+            <title>should login with valid credentials, place an order then logout</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.75'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timeout of 60000ms exceeded. The execution in the test "Order Confirmation Test should login with valid credentials, place an order then logout" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts.html). (E:\Adnan Ghaffar\saucedemo\test\specs\e2e.js)</message>
+                <stack-trace>Error: Timeout of 60000ms exceeded. The execution in the test "Order Confirmation Test should login with valid credentials, place an order then logout" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts.html). (E:\Adnan Ghaffar\saucedemo\test\specs\e2e.js)
+                    at Test.Runnable._timeoutError (E:\Adnan Ghaffar\saucedemo\node_modules\mocha\lib\runnable.js:426:10)
+                    at Timeout.&lt;anonymous> (E:\Adnan Ghaffar\saucedemo\node_modules\mocha\lib\runnable.js:238:24)
+                    at listOnTimeout (internal/timers.js:549:17)
+                    at processTimers (internal/timers.js:492:7)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

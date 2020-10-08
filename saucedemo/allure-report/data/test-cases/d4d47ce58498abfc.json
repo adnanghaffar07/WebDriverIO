@@ -1,0 +1,56 @@
+{
+  "uid" : "d4d47ce58498abfc",
+  "name" : "should login with valid credentials, place an order then logout",
+  "fullName" : "Order Confirmation Test.should login with valid credentials, place an order then logout",
+  "historyId" : "f0e6e2ea01e82df646aef6a3408933d0",
+  "time" : {
+    "start" : 1602159750041,
+    "stop" : 1602159787979,
+    "duration" : 37938
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials, place an order then logout"
+  }, {
+    "name" : "package",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.75"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4d47ce58498abfc.json",
+  "parameterValues" : [ "chrome-86.0.4240.75" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "6b27432db444ca8f",
+  "name" : "should login with valid credentials, place an order then logout",
+  "fullName" : "Order Confirmation Test.should login with valid credentials, place an order then logout",
+  "historyId" : "f0e6e2ea01e82df646aef6a3408933d0",
+  "time" : {
+    "start" : 1602095353658,
+    "stop" : 1602095373600,
+    "duration" : 19942
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\".bm-burger-button button\") still not clickable after 10000ms",
+  "statusTrace" : "Error: element (\".bm-burger-button button\") still not clickable after 10000ms\n                    at E:\\Adnan Ghaffar\\saucedemo\\node_modules\\webdriverio\\build\\commands\\browser\\waitUntil.js:22:23\n                    at async Element.elementErrorHandlerCallbackFn (E:\\Adnan Ghaffar\\saucedemo\\node_modules\\webdriverio\\build\\middlewares.js:17:32)\n                    at async Element.runCommandWithHooks (E:\\Adnan Ghaffar\\saucedemo\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:70:25)\n                    at Element.runCommandWithHooks (E:\\Adnan Ghaffar\\saucedemo\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Element.wrapCommandFn (E:\\Adnan Ghaffar\\saucedemo\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at Element.elementErrorHandlerCallback (E:\\Adnan Ghaffar\\saucedemo\\node_modules\\webdriverio\\build\\middlewares.js:34:12)\n                    at TopLeftPanel.clickTopMenu (E:\\Adnan Ghaffar\\saucedemo\\test\\pageobjects\\topleftpanel.js:5:22)\n                    at Context.<anonymous> (E:\\Adnan Ghaffar\\saucedemo\\test\\specs\\e2e.js:21:26)\n                    at Context.executeSync (E:\\Adnan Ghaffar\\saucedemo\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at E:\\Adnan Ghaffar\\saucedemo\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials, place an order then logout"
+  }, {
+    "name" : "package",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.75"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6b27432db444ca8f.json",
+  "parameterValues" : [ "chrome-86.0.4240.75" ]
+}

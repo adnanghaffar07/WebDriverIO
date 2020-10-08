@@ -1,0 +1,516 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "24f65622c2919b10",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602149975010,
+        "stop" : 1602149991474,
+        "duration" : 16464
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "19d0f2e925aaf6f7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1602160139458,
+        "stop" : 1602160156614,
+        "duration" : 17156
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "76a58da9f6cd8339",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602095544711,
+        "stop" : 1602095573486,
+        "duration" : 28775
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "c986be81f511780a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1602154712115,
+        "stop" : 1602154725726,
+        "duration" : 13611
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "90e2dcbfd11f9559",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1602157477792,
+        "stop" : 1602157478994,
+        "duration" : 1202
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "452ac5bb33f45b6b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602160283036,
+        "stop" : 1602160300624,
+        "duration" : 17588
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "dc562e3e5338816b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602154421250,
+        "stop" : 1602154442085,
+        "duration" : 20835
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "a36c04af62ac8c95",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602159986775,
+        "stop" : 1602159999122,
+        "duration" : 12347
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "3581b8e149c7415d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602096789785,
+        "stop" : 1602096815871,
+        "duration" : 26086
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "52471a177e9e9348",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602155826247,
+        "stop" : 1602155827616,
+        "duration" : 1369
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "85a2f32fc2ab293b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1602158576002,
+        "stop" : 1602158577610,
+        "duration" : 1608
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "63d7faecf9f5ab46",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602157008205,
+        "stop" : 1602157009061,
+        "duration" : 856
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "11aa42f5dd22cf59",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1602156708063,
+        "stop" : 1602156709139,
+        "duration" : 1076
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "9febc26f6c659623",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602152102478,
+        "stop" : 1602152107187,
+        "duration" : 4709
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "fa7d7a8529d67acb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602095004558,
+        "stop" : 1602095064642,
+        "duration" : 60084
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "6b27432db444ca8f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602095353658,
+        "stop" : 1602095373600,
+        "duration" : 19942
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "cc9d52b36dadefe7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602155868326,
+        "stop" : 1602155869101,
+        "duration" : 775
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "905af00d27db3b0b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602155363699,
+        "stop" : 1602155364521,
+        "duration" : 822
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "3ea7b909a16bc3fe",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602149103879,
+        "stop" : 1602149111167,
+        "duration" : 7288
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "99af4609d3e57371",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602154525079,
+        "stop" : 1602154539406,
+        "duration" : 14327
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "d4d47ce58498abfc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602159750041,
+        "stop" : 1602159787979,
+        "duration" : 37938
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "b89ed046448fb668",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602158707017,
+        "stop" : 1602158708129,
+        "duration" : 1112
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "7ff0d52dd58f9caf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1602157462080,
+        "stop" : 1602157463961,
+        "duration" : 1881
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "c276ee5d43ff213b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602146408773,
+        "stop" : 1602146421054,
+        "duration" : 12281
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "61e7c12f4eb4d1a8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602155476034,
+        "stop" : 1602155476850,
+        "duration" : 816
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "93e57ac7a561e56",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602155168116,
+        "stop" : 1602155169428,
+        "duration" : 1312
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "82216a8efe82c4d5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602157980681,
+        "stop" : 1602157981581,
+        "duration" : 900
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "8c944afef16010ff",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602158807218,
+        "stop" : 1602158808066,
+        "duration" : 848
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "308e07923459793",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602146809560,
+        "stop" : 1602146820429,
+        "duration" : 10869
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "c98a76d5c6b57d7d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602159367446,
+        "stop" : 1602159368716,
+        "duration" : 1270
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "c77818c9f99edb9a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602154999564,
+        "stop" : 1602155010233,
+        "duration" : 10669
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "aeeea5a9753e2300",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602092718464,
+        "stop" : 1602092723981,
+        "duration" : 5517
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "70e1d8e6e6f2197d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602156622005,
+        "stop" : 1602156622797,
+        "duration" : 792
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "a7ab6e8b874207a3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1602159888661,
+        "stop" : 1602159916606,
+        "duration" : 27945
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "ccbeaa5e9a3c2f5d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602156559946,
+        "stop" : 1602156561348,
+        "duration" : 1402
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "ec6b8937825f0a54",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1602160045355,
+        "stop" : 1602160057422,
+        "duration" : 12067
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "6174055b00e50af2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1602157508363,
+        "stop" : 1602157509121,
+        "duration" : 758
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "24c1f1ea2cdb329c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602155446294,
+        "stop" : 1602155447169,
+        "duration" : 875
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    }, {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "eb851b1b1f2ba061",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1602154632202,
+        "stop" : 1602154645694,
+        "duration" : 13492
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}

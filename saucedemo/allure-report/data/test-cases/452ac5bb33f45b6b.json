@@ -1,0 +1,382 @@
+{
+  "uid" : "452ac5bb33f45b6b",
+  "name" : "should login with valid credentials, place an order then logout",
+  "fullName" : "Order Confirmation Test.should login with valid credentials, place an order then logout",
+  "historyId" : "f0e6e2ea01e82df646aef6a3408933d0",
+  "time" : {
+    "start" : 1602160283036,
+    "stop" : 1602160300624,
+    "duration" : 17588
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials, place an order then logout"
+  }, {
+    "name" : "package",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "19d0f2e925aaf6f7",
+      "status" : "failed",
+      "statusDetails" : "expected '1' to equal '2'",
+      "time" : {
+        "start" : 1602160139458,
+        "stop" : 1602160156614,
+        "duration" : 17156
+      }
+    }, {
+      "uid" : "ec6b8937825f0a54",
+      "status" : "failed",
+      "statusDetails" : "expected '1' to equal '2'",
+      "time" : {
+        "start" : 1602160045355,
+        "stop" : 1602160057422,
+        "duration" : 12067
+      }
+    }, {
+      "uid" : "a36c04af62ac8c95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602159986775,
+        "stop" : 1602159999122,
+        "duration" : 12347
+      }
+    }, {
+      "uid" : "a7ab6e8b874207a3",
+      "status" : "failed",
+      "statusDetails" : "expected 'https://www.saucedemo.com/' to equal 'https://www.saucedemo.com/inventory.html'",
+      "time" : {
+        "start" : 1602159888661,
+        "stop" : 1602159916606,
+        "duration" : 27945
+      }
+    }, {
+      "uid" : "d4d47ce58498abfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602159750041,
+        "stop" : 1602159787979,
+        "duration" : 37938
+      }
+    }, {
+      "uid" : "c98a76d5c6b57d7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602159367446,
+        "stop" : 1602159368716,
+        "duration" : 1270
+      }
+    }, {
+      "uid" : "8c944afef16010ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602158807218,
+        "stop" : 1602158808066,
+        "duration" : 848
+      }
+    }, {
+      "uid" : "b89ed046448fb668",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602158707017,
+        "stop" : 1602158708129,
+        "duration" : 1112
+      }
+    }, {
+      "uid" : "85a2f32fc2ab293b",
+      "status" : "failed",
+      "statusDetails" : "expected 'https://www.saucedemo.com/' to equal 'https://www.saucedemo.com/inventory.html'",
+      "time" : {
+        "start" : 1602158576002,
+        "stop" : 1602158577610,
+        "duration" : 1608
+      }
+    }, {
+      "uid" : "82216a8efe82c4d5",
+      "status" : "broken",
+      "statusDetails" : "value is not defined",
+      "time" : {
+        "start" : 1602157980681,
+        "stop" : 1602157981581,
+        "duration" : 900
+      }
+    }, {
+      "uid" : "6174055b00e50af2",
+      "status" : "failed",
+      "statusDetails" : "expected 'https://www.saucedemo.com/' to equal 'https://www.saucedemo.com/inventory.html'",
+      "time" : {
+        "start" : 1602157508363,
+        "stop" : 1602157509121,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "90e2dcbfd11f9559",
+      "status" : "failed",
+      "statusDetails" : "expected 'https://www.saucedemo.com/' to equal 'https://www.saucedemo.com/inventory.html'",
+      "time" : {
+        "start" : 1602157477792,
+        "stop" : 1602157478994,
+        "duration" : 1202
+      }
+    }, {
+      "uid" : "7ff0d52dd58f9caf",
+      "status" : "failed",
+      "statusDetails" : "expected 'https://www.saucedemo.com/' to equal 'https://www.saucedemo.com/inventory.html'",
+      "time" : {
+        "start" : 1602157462080,
+        "stop" : 1602157463961,
+        "duration" : 1881
+      }
+    }, {
+      "uid" : "63d7faecf9f5ab46",
+      "status" : "broken",
+      "statusDetails" : "prompt is not a function",
+      "time" : {
+        "start" : 1602157008205,
+        "stop" : 1602157009061,
+        "duration" : 856
+      }
+    }, {
+      "uid" : "11aa42f5dd22cf59",
+      "status" : "failed",
+      "statusDetails" : "expected 'https://www.saucedemo.com/' to equal 'https://www.saucedemo.com/inventory.html'",
+      "time" : {
+        "start" : 1602156708063,
+        "stop" : 1602156709139,
+        "duration" : 1076
+      }
+    }, {
+      "uid" : "70e1d8e6e6f2197d",
+      "status" : "broken",
+      "statusDetails" : "username is not defined",
+      "time" : {
+        "start" : 1602156622005,
+        "stop" : 1602156622797,
+        "duration" : 792
+      }
+    }, {
+      "uid" : "ccbeaa5e9a3c2f5d",
+      "status" : "broken",
+      "statusDetails" : "username is not defined",
+      "time" : {
+        "start" : 1602156559946,
+        "stop" : 1602156561348,
+        "duration" : 1402
+      }
+    }, {
+      "uid" : "cc9d52b36dadefe7",
+      "status" : "broken",
+      "statusDetails" : "username is not defined",
+      "time" : {
+        "start" : 1602155868326,
+        "stop" : 1602155869101,
+        "duration" : 775
+      }
+    }, {
+      "uid" : "52471a177e9e9348",
+      "status" : "broken",
+      "statusDetails" : "username is not defined",
+      "time" : {
+        "start" : 1602155826247,
+        "stop" : 1602155827616,
+        "duration" : 1369
+      }
+    }, {
+      "uid" : "61e7c12f4eb4d1a8",
+      "status" : "broken",
+      "statusDetails" : "username is not defined",
+      "time" : {
+        "start" : 1602155476034,
+        "stop" : 1602155476850,
+        "duration" : 816
+      }
+    }, {
+      "uid" : "24c1f1ea2cdb329c",
+      "status" : "broken",
+      "statusDetails" : "window is not defined",
+      "time" : {
+        "start" : 1602155446294,
+        "stop" : 1602155447169,
+        "duration" : 875
+      }
+    }, {
+      "uid" : "905af00d27db3b0b",
+      "status" : "broken",
+      "statusDetails" : "window is not defined",
+      "time" : {
+        "start" : 1602155363699,
+        "stop" : 1602155364521,
+        "duration" : 822
+      }
+    }, {
+      "uid" : "93e57ac7a561e56",
+      "status" : "broken",
+      "statusDetails" : "prompt is not defined",
+      "time" : {
+        "start" : 1602155168116,
+        "stop" : 1602155169428,
+        "duration" : 1312
+      }
+    }, {
+      "uid" : "c77818c9f99edb9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602154999564,
+        "stop" : 1602155010233,
+        "duration" : 10669
+      }
+    }, {
+      "uid" : "c986be81f511780a",
+      "status" : "failed",
+      "statusDetails" : "expected '9.99' to equal '999.99'",
+      "time" : {
+        "start" : 1602154712115,
+        "stop" : 1602154725726,
+        "duration" : 13611
+      }
+    }, {
+      "uid" : "eb851b1b1f2ba061",
+      "status" : "broken",
+      "statusDetails" : "element (\"#menu_button_container > div > div:nth-child(3) > div > button\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1602154632202,
+        "stop" : 1602154645694,
+        "duration" : 13492
+      }
+    }, {
+      "uid" : "99af4609d3e57371",
+      "status" : "broken",
+      "statusDetails" : "element (\"#menu_button_container > div > div:nth-child(3) > div > button\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1602154525079,
+        "stop" : 1602154539406,
+        "duration" : 14327
+      }
+    }, {
+      "uid" : "dc562e3e5338816b",
+      "status" : "broken",
+      "statusDetails" : "element (\".bm-burger-button button\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1602154421250,
+        "stop" : 1602154442085,
+        "duration" : 20835
+      }
+    }, {
+      "uid" : "9febc26f6c659623",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602152102478,
+        "stop" : 1602152107187,
+        "duration" : 4709
+      }
+    }, {
+      "uid" : "24f65622c2919b10",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#first-name\" because element wasn't found",
+      "time" : {
+        "start" : 1602149975010,
+        "stop" : 1602149991474,
+        "duration" : 16464
+      }
+    }, {
+      "uid" : "3ea7b909a16bc3fe",
+      "status" : "broken",
+      "statusDetails" : "this.addFleeceJacketToCartBtn.click is not a function",
+      "time" : {
+        "start" : 1602149103879,
+        "stop" : 1602149111167,
+        "duration" : 7288
+      }
+    }, {
+      "uid" : "308e07923459793",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#inventory_container .inventory_list .inventory_item:nth-child(1) button.btn_inventory\" because element wasn't found",
+      "time" : {
+        "start" : 1602146809560,
+        "stop" : 1602146820429,
+        "duration" : 10869
+      }
+    }, {
+      "uid" : "c276ee5d43ff213b",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#inventory_container .inventory_list .inventory_item:nth-child(1) button.btn_inventory\" because element wasn't found",
+      "time" : {
+        "start" : 1602146408773,
+        "stop" : 1602146421054,
+        "duration" : 12281
+      }
+    }, {
+      "uid" : "3581b8e149c7415d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602096789785,
+        "stop" : 1602096815871,
+        "duration" : 26086
+      }
+    }, {
+      "uid" : "76a58da9f6cd8339",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602095544711,
+        "stop" : 1602095573486,
+        "duration" : 28775
+      }
+    }, {
+      "uid" : "6b27432db444ca8f",
+      "status" : "broken",
+      "statusDetails" : "element (\".bm-burger-button button\") still not clickable after 10000ms",
+      "time" : {
+        "start" : 1602095353658,
+        "stop" : 1602095373600,
+        "duration" : 19942
+      }
+    }, {
+      "uid" : "fa7d7a8529d67acb",
+      "status" : "broken",
+      "statusDetails" : "Timeout of 60000ms exceeded. The execution in the test \"Order Confirmation Test should login with valid credentials, place an order then logout\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts.html). (E:\\Adnan Ghaffar\\saucedemo\\test\\specs\\e2e.js)",
+      "time" : {
+        "start" : 1602095004558,
+        "stop" : 1602095064642,
+        "duration" : 60084
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "452ac5bb33f45b6b.json",
+  "parameterValues" : [ "chrome-86.0.4240.75" ]
+}

@@ -1,0 +1,39 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "My Login application",
+    "children" : [ {
+      "name" : "should login with valid credentials",
+      "uid" : "aeeea5a9753e2300",
+      "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602092718464,
+        "stop" : 1602092723981,
+        "duration" : 5517
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    } ],
+    "uid" : "f43874cc36d1c5833cbb332fc53460ce"
+  }, {
+    "name" : "Order Confirmation Test",
+    "children" : [ {
+      "name" : "should login with valid credentials, place an order then logout",
+      "uid" : "452ac5bb33f45b6b",
+      "parentUid" : "a374f74133127480c43ced5a19a6e806",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602160283036,
+        "stop" : 1602160300624,
+        "duration" : 17588
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.75" ]
+    } ],
+    "uid" : "a374f74133127480c43ced5a19a6e806"
+  } ]
+}

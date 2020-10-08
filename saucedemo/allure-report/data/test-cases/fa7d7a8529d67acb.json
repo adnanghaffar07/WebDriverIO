@@ -1,0 +1,58 @@
+{
+  "uid" : "fa7d7a8529d67acb",
+  "name" : "should login with valid credentials, place an order then logout",
+  "fullName" : "Order Confirmation Test.should login with valid credentials, place an order then logout",
+  "historyId" : "f0e6e2ea01e82df646aef6a3408933d0",
+  "time" : {
+    "start" : 1602095004558,
+    "stop" : 1602095064642,
+    "duration" : 60084
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Timeout of 60000ms exceeded. The execution in the test \"Order Confirmation Test should login with valid credentials, place an order then logout\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts.html). (E:\\Adnan Ghaffar\\saucedemo\\test\\specs\\e2e.js)",
+  "statusTrace" : "Error: Timeout of 60000ms exceeded. The execution in the test \"Order Confirmation Test should login with valid credentials, place an order then logout\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts.html). (E:\\Adnan Ghaffar\\saucedemo\\test\\specs\\e2e.js)\n                    at Test.Runnable._timeoutError (E:\\Adnan Ghaffar\\saucedemo\\node_modules\\mocha\\lib\\runnable.js:426:10)\n                    at Timeout.<anonymous> (E:\\Adnan Ghaffar\\saucedemo\\node_modules\\mocha\\lib\\runnable.js:238:24)\n                    at listOnTimeout (internal/timers.js:549:17)\n                    at processTimers (internal/timers.js:492:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials, place an order then logout"
+  }, {
+    "name" : "package",
+    "value" : "Order Confirmation Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.75"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa7d7a8529d67acb.json",
+  "parameterValues" : [ "chrome-86.0.4240.75" ]
+}
